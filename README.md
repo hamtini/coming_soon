@@ -2,7 +2,7 @@
 
 ![Design preview for the Base Apparel coming soon page coding challenge](./design/desktop-preview.jpg)
 
-## Welcome! 👋
+## Welcome! Hamtini👋
 
 Thanks for checking out this front-end coding challenge.
 
@@ -10,7 +10,7 @@ Thanks for checking out this front-end coding challenge.
 
 **To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
 
-## The challenge
+## Hamtini The challenge
 
 Your challenge is to build out this coming soon page and get it looking as close to the design as possible.
 
@@ -26,7 +26,7 @@ Your users should be able to:
 
 Want some support on the challenge? [Join our community](https://www.frontendmentor.io/community) and ask questions in the **#help** channel.
 
-## Where to find everything
+## Where to find everything and anything
 
 Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
 
@@ -38,7 +38,7 @@ You will find all the required assets in the `/images` folder. The assets are al
 
 There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
 
-## Building your project
+## Building your project from scratch hamtini Page
 
 Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
 
